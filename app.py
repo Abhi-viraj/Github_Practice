@@ -1,12 +1,12 @@
 import random
 # Number guessing game "Time Pass"
 def guess_the_number():
-    # Pick a random number between 1 to 150
-    secret_number = random.randint(1, 150)
+    # Pick a random number between 1 to 15
+    secret_number = random.randint(1, 15)
     attempts = 0
     
     print("✨ Welcome to the Guessing Game! ✨")
-    print("I am thinking of a number between 1 and 150.")
+    print("I am thinking of a number between 1 and 15.")
 
     # Loop until the player guesses correctly
     while True:
