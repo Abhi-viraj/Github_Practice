@@ -1,0 +1,6 @@
+This is a file which contain all over the list of features.
+
+Till now list is not updated .. will update the list soon.
+
+Feature1 - Number guess game 
+.
