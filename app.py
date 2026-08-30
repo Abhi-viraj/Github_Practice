@@ -1,7 +1,7 @@
 import random
 # Number guessing game "Time Pass Number Game"
 def guess_the_number():
-    # Pick a random number between 1 and 50
+    # Pick a random number between 1 to  50
     secret_number = random.randint(1, 50)
     attempts = 0
     
